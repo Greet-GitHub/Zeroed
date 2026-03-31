@@ -1,38 +1,55 @@
 [
-	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
-		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
-		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		{
+		//nations
+		"name": "Zeroed",
+		"leaderName": "Void",
+		"adjective": ["Zeroed"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		"personality": "Zeroed Zero",
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"startIntroPart1": "NULL",
+		"startIntroPart2": "NULL",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"declaringWar": "War!",
+		"attacked": "Out.",
+		"defeated": "None.",
+		"introduction": "One?",
+
+		"neutralHello": "Zero.",
+		"hateHello": "Zeroed!",
+		"hateLetsHearIt": ["Free."],
+		"hateNo": ["Padding."],
+		"hateYes": ["Boot."],
+		
+		"neutralLetsHearIt": ["Zeroing."],
+		"neutralNo": ["Slack."],
+		"neutralYes": ["Dump."],
+
+		"tradeRequest": "Great.",
+		"afterPeace": "Carving.",
+
+		"outerColor": [12,34,56],
+		"innerColor": [78,91,23],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Zeroed",
+		"uniques": ["City-State territory always counts as friendly territory", "Can spend Gold to annex or puppet a City-State that has been your Ally for [4] turns","[-100]% City-State Influence degradation","Influence of all other civilizations with all city-states degrades [100]% faster",
+		"[+16] Sight",
+		"Enables embarkation for land units <starting from the [Ancient era]> <Suppress warning [*contains a conditional on a unit movement unique*]>","Enables [All] units to enter ocean tiles <starting from the [Ancient era]>","Gain a free [Harbor] [in all coastal cities]",
+            "[-100]% maintenance on road & railroads","[-100]% maintenance costs <for [All] units>","[-100]% Gold cost of acquiring tiles [in all cities]","[+320]% Strength <for [All] units>","When defeating a [All] unit, earn [250] Gold and recruit it <with [100]% chance>",
+            "Heals [100] damage if it kills a unit","All healing effects doubled","[5] additional attacks per turn",
+            "[+320]% [Science]","[+320]% [Culture]","[+320]% [Food]","[+320]% [Faith]","[+320]% [Production]","[+320]% [Happiness]","[+320]% [Gold]","[+320]% Spread Religion Strength","Receive [+320]% Gold from Barbarian encampments and pillaging Cities",
+            "Each city founded increases culture cost of policies [100]% less than normal","Each city founded increases Science cost of Technologies [100]% less than normal",
+            "[+16] Movement <for [All] units>","No damage penalty for wounded units <for [All] units>","[0] Movement point cost to disembark <for [All] units>","[0] Movement point cost to embark <for [All] units>","No movement cost to pillage <for [All] units>",
+            "Gain an extra spy <upon entering the [Renaissance era]>","Gain an extra spy <upon entering the [Industrial era]>","Gain an extra spy <upon entering the [Modern era]>","Gain an extra spy <upon entering the [Atomic era]>","Gain an extra spy <upon entering the [Information era]>","Gain an extra spy <upon entering the [Future era]>","[+320]% spy effectiveness [in all cities]",
+            "Cities are razed [16] times as fast","\"Borrows\" city names from other civilizations in the game","[-100]% unhappiness from the number of cities","[-100]% Unhappiness from [Population] [in all cities]"],
+		"cities": ["A","B","C","D","E","F","G","H","I","J",
+			"K","L","M","N","O","P","Q","R","S","T",
+			"U","V","W","X","Y","Z","a","b","c","d",
+			"e","f","g","h","i","j","k","l","m","n",
+			"o","p","q","r","s","t","u","v","w","x",
+			"y","z",
+			"0","1","2","3","4","5","6","7","8","9"],
+        "spyNames": ["0x0", "0x1", "0x2", "0x3", "0x4", "0x5", "0x6", "0x7", "0x8", "0x9","0xa","0xb","0xc","0xd","0xe","0xf"]
 	}
 ]
