@@ -29,8 +29,8 @@
 		"tradeRequest": "Great.",
 		"afterPeace": "Carving.",
 
-		"outerColor": [243,224,205],
-		"innerColor": [151,140,198],
+		"outerColor": [38,166,255],
+		"innerColor": [0,0,180],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Zeroed",
 		"uniques": ["City-State territory always counts as friendly territory", "Can spend Gold to annex or puppet a City-State that has been your Ally for [4] turns","[-100]% City-State Influence degradation","Influence of all other civilizations with all city-states degrades [100]% faster",
