@@ -46,7 +46,8 @@
             "Receive [+320]% Gold from Barbarian encampments and pillaging Cities",
             "Each city founded increases culture cost of policies [100]% less than normal","Each city founded increases Science cost of Technologies [100]% less than normal",
             "[+7] Movement <for [All] units>","[0] Movement point cost to disembark <for [All] units>","[0] Movement point cost to embark <for [All] units>","No movement cost to pillage <for [All] units>",
-            "[+320]% Strength <for [Air] units>","[+16] Air Interception Range <for [Air] units>","[+16] Range <for [Air] units>","[+24] Sight <for [Air] units>","[+320]% Strength <for [Missile] units>","[+24] Sight <for [Missile] units>","[+16] Air Interception Range <for [Missile] units>","[+16] Range <for [Missile] units>",
+            "[+320]% Strength <for [Air] units>","[+16] Air Interception Range <for [Air] units>","[+16] Range <for [Air] units>","[+24] Sight <for [Air] units>",
+
             "[+320]% Strength <for [Water] units>",
             "[+4] Range","Ranged attacks may be performed over obstacles",
             "[-99]% Gold cost of acquiring tiles [in all cities]",
